@@ -11,15 +11,8 @@
 - 📊 **Dashboard**: Personalized dashboard to track history and recommendations.
 - 💬 **Community**: Share knowledge and connect with other plant enthusiasts.
 
-## 🛠️ Tech Stack
-
-- **Frontend**: React.js + TypeScript
-- **UI Framework**: Tailwind CSS
-- **Routing**: React Router DOM
-- **State Management**: React Context API
-- **Authentication**: Firebase
-- **Backend (Planned)**: Node.js + Express + MongoDB (optional)
-- **ML Model (Planned)**: Image recognition for plant classification
+## 🌿 SCREENSHOTS OF PROJECT
+https://docs.google.com/document/d/1eC7lLYBscNzT_2l2YKN6rhccjQI0BzGa/edit?usp=sharing&ouid=112249193144319895619&rtpof=true&sd=true
 
 ## 📂 Folder Structure
 
